@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
 	title: 'Missie Kahsay - Full Stack Software Engineer',
 	description:
-		'Passionate Full Stack Software Engineer with expertise in React.js, Node.js, and Ruby on Rails. Experienced in designing, developing, and deploying scalable web applications. Skilled in problem-solving, collaboration, and continuous learning to deliver high-quality software solutions.',
+		'Software Engineer with expertise in React.js, Node.js, and Ruby on Rails. Experienced in designing, developing, and deploying scalable web applications. Skilled in problem-solving, collaboration, and continuous learning to deliver high-quality software solutions.',
 	keywords: [
 		'Backend Developer',
 		'Software Engineer',
