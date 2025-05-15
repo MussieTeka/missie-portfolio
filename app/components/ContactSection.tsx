@@ -76,7 +76,7 @@ export default function ContactSection() {
 									</div>
 								</motion.a>
 								<motion.a
-									href="https://www.linkedin.com/in/missiekahsay/"
+									href="https://www.linkedin.com/in/mussieteka/"
 									target="_blank"
 									rel="noopener noreferrer"
 									whileHover={{ scale: 1.05 }}
